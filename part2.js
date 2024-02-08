@@ -26,7 +26,7 @@ const scoreKoalas = calAverage(65, 54, 49);
 console.log(checkWinner(scoreDolphines, scoreKoalas));
 console.log(checkWinner(544, 111));
 
-challenge 2
+//challenge 2
 const bill = 100;
 
 const calcTip = function (bill) {
